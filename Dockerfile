@@ -1,4 +1,4 @@
-ARG base_container=jgruberf5/f5-icontrol-gateway
+ARG base_container=f5devcentral/f5-icontrol-gateway
 
 FROM "${base_container}"
 

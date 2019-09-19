@@ -1,6 +1,6 @@
 # Express Hello World for the f5-icontrol-gateway
 
-This template application is the minimal project required to publish an express app as an nginx unit application into the [f5-icontrol-gateway](https://hub.docker.com/r/jgruberf5/f5-icontrol-gateway) container.
+This template application is the minimal project required to publish an express app as an nginx unit application into the [f5-icontrol-gateway](https://hub.docker.com/r/f5devcentral/f5-icontrol-gateway) container.
 
 It contains the simplest possible node express application in the `app.js` file.
 
