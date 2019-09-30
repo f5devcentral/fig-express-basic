@@ -30,4 +30,4 @@ docker run --rm -p 8443:443 --name fig-express-basic fig-express-basic:latest
 
 You should then be able to access your application at:
 
-[https://localhost:8443/fig-express-app](https://localhost:8443/fig-express-app)
+[https://localhost:8443/fig-express-basic](https://localhost:8443/fig-express-basic)
