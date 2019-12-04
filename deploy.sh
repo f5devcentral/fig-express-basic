@@ -6,7 +6,7 @@ cd $DIR
 
 npm install
 docker build -t fig-express-basic .
-docker run --rm -d -it -p 8443:443 --name fig-express-basic fig-express-basic:latest
+docker run --rm -d -p 8443:443 --name fig-express-basic fig-express-basic:latest
 
 if [ -n "$XDG_RUNTIME_DIR" ]
 then
